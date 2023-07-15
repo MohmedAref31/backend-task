@@ -1,0 +1,7 @@
+[
+  { "id": 1, "fname": "mohamed", "lname": "aref", "age": "20", "city": "bns" },
+  { "id": 2, "fname": "mohamed", "lname": "osman", "age": "20", "city": "bns" },
+  { "id": 3, "fname": "mohamed", "lname": "selim", "age": "20", "city": "bns" },
+  { "id": 5, "fname": "sayed", "lname": "aref", "age": "20", "city": "bns" },
+  { "id": 7, "fname": "ali", "lname": "aref", "age": "20", "city": "bns" }
+]
